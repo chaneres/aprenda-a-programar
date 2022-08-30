@@ -10,6 +10,4 @@
 
 **Estudando atualmente:**
 
-![This is an image](javascript.svg)  
-![This is an image](html.svg)
-![This is an image](css.svg)
+Javascript - HTML - CSS
