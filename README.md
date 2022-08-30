@@ -8,7 +8,7 @@
  - **Dia 4:** Conhecendo o mundo da web com HTML + CSS + JavaScript;
  - **Dia 5:** Seus próximos passos como pessoa programadora.
 
-<sub>**Estudando atualmente:**</sub>
+**Estudando atualmente:**
 
 * Javascript
 * HTML
